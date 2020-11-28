@@ -2,7 +2,6 @@ import pandas as pd
 from bokeh.plotting import figure, curdoc
 from bokeh.layouts import column, row, layout
 from bokeh.models import ColumnDataSource, Panel, Tabs, HoverTool, PreText, Div
-from bokeh.colors import RGB
 
 # Read in dataset and extract Delhi data
 whole_dataset = pd.read_csv("city_day.csv", parse_dates=['Date'])
