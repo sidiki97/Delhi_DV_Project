@@ -14,5 +14,5 @@ Data Visualization of Delhi Air Quality data provided by [Rohan Roa](https://www
 * Install requirements: pip install -r requirements.txt
 * Start up bokeh server: bokeh serve --show bokeh_delhi.py
 
-![Image](https://github.com/sidiki97/Delhi_DV/blob/main/Delhi_DV_Image.png)
+![Image](https://github.com/sidiki97/Delhi_DV_Project/blob/main/Delhi_DV_Image.png)
 
