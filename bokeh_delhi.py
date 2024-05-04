@@ -64,6 +64,7 @@ delhi_dataset.selected.on_change('indices', update)
 # Date range
 indice = PreText(text="Date Range: 2015-01-01 : 2020-07-01")
 
+# Layout
 layout = layout([div], [Tabs(tabs=tabs), column(stats, stats2, indice)])
 
 curdoc().add_root(layout)
