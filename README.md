@@ -3,7 +3,7 @@
 Data Visualization of Delhi Air Quality data provided by [Rohan Roa](https://www.kaggle.com/rohanrao) Data Scientist at [H2O.ai](https://www.h2o.ai/).
 
 ## Hosted with Heroku
-[Delhi-DV](https://delhi-dv.herokuapp.com/)
+
 
 ## Created with the following Python libraries:
 * Bokeh
